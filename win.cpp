@@ -1,5 +1,5 @@
 // CacheAttack.cpp : Defines the entry point for the console application.
-//
+// by @pwnallthethings
 
 #include "stdafx.h"
 #include <Windows.h>
